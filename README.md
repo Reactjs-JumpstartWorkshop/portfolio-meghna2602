@@ -1,7 +1,7 @@
 # portfolio-meghna2602
 portfolio-meghna2602 created by GitHub Classroom
 
-#react #materialui #fun
+#react #fun
 
 Created a Portfolio.
 
