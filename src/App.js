@@ -48,7 +48,7 @@ function App() {
                 <div className="mystery">
                   <span className="proj_name">Java: Face Mystery</span><br/>
                   <img className="proj_image" src={Face_Mystery} alt="face Mystery"/>
-                  <br/><br/><a href="/" className="link">Project Link</a><br/>
+                  <br/><br/><a href="https://github.com/meghna2602/Face-Mystery.git" className="link">Project Link</a><br/>
                 </div>
             </div>
             {/*Project2*/}
@@ -57,7 +57,7 @@ function App() {
                 <div className="mystery">
                   <span className="proj_name">Training and Placement Cell</span><br/>
                   <img className="proj_image" src={training} alt="face Mystery"/><br/>
-                  <br/><a href="/" className="link">Project Link</a>
+                  <br/><a href="https://github.com/meghna2602/Training-and-Placement-Cell.git" className="link">Project Link</a>
                 </div>
                 <div className="line">
                   <span className="circle"></span>
